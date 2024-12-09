@@ -2,7 +2,7 @@ langchain==0.0.274
 gpt4all==1.0.8
 chromadb==0.5.0
 llama-cpp-python==0.1.81
-urllib3==2.0.4
+urllib3==2.2.2
 PyMuPDF==1.23.5
 python-dotenv==1.0.0
 unstructured==0.10.8
